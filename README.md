@@ -2,7 +2,7 @@
 
 I’m a software engineer and technology solutions analyst pursuing an M.S. in Computer Science & Artificial Intelligence at Boston University. I earned my B.S. in Computer Science with a mathematics minor at the University of Minnesota Duluth. My work spans application debugging, data validation, and reporting, and I’m interested in how those practices make software easier to trust and maintain.
 
-  [Résumé (PDF)](./Software_Engineer_Kane_John_Public.pdf)
+ [Résumé (PDF)](./Software_Engineer_Kane_John.pdf)
 
   [LinkedIn](https://www.linkedin.com/in/kane-john/)
 
